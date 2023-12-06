@@ -1,0 +1,2 @@
+class ShouldBeEncrypted:
+    pass

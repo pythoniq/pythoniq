@@ -1,0 +1,2 @@
+class LockTimeoutException(Exception):
+    pass

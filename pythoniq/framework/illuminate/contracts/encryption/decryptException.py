@@ -1,0 +1,2 @@
+class DecryptException(RuntimeError):
+    pass

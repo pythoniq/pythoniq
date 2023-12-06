@@ -1,0 +1,2 @@
+class MaxAttemptsExceededException(RuntimeError):
+    pass

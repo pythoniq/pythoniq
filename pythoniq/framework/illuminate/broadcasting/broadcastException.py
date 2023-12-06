@@ -1,0 +1,3 @@
+class BroadcastException(Exception):
+    pass
+

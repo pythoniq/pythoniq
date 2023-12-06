@@ -1,0 +1,2 @@
+class ManuallyFailedException(Exception):
+    pass

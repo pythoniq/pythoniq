@@ -1,0 +1,2 @@
+class EncryptException(RuntimeError):
+    pass

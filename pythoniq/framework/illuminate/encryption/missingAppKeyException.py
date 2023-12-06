@@ -1,0 +1,2 @@
+class MissingAppKeyException(RuntimeError):
+    pass
